@@ -1,20 +1,18 @@
 # FinanceHub 📊
 
-> **Feature tracker & community request hub for [StockMgr](https://github.com/RobertoBorges/StockMgr)**
+> **Feature tracker & community request hub for FinanceHub**
 
 FinanceHub is the central place where you can:
-- 📋 Browse the **current and planned features** of StockMgr
+- 📋 Browse the **current and planned features** of FinanceHub
 - 💡 **Request new features** by opening a GitHub Issue
-- 🐛 **Report bugs** you find in StockMgr
+- 🐛 **Report bugs** you find in FinanceHub
 - 🗳️ **Vote** on existing requests by reacting with 👍
 
 ---
 
-## What is StockMgr?
+## What is FinanceHub?
 
-**StockMgr** is a stock portfolio management application that helps individuals and small teams track investments, monitor market performance, and make informed financial decisions.
-
-**Repository:** [https://github.com/RobertoBorges/StockMgr](https://github.com/RobertoBorges/StockMgr)
+**FinanceHub** is a stock portfolio management application that helps individuals and small teams track investments, monitor market performance, and make informed financial decisions.
 
 ---
 

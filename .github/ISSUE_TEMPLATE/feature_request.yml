@@ -1,5 +1,5 @@
 name: "💡 Feature Request"
-description: "Suggest a new feature or enhancement for StockMgr"
+description: "Suggest a new feature or enhancement for FinanceHub"
 title: "[Feature Request]: "
 labels: ["enhancement", "needs-triage"]
 body:
@@ -13,7 +13,7 @@ body:
     attributes:
       label: "Problem Description"
       description: "What problem are you trying to solve? Is your feature request related to a frustration or limitation?"
-      placeholder: "I'm always frustrated when... / It would be great if StockMgr could..."
+      placeholder: "I'm always frustrated when... / It would be great if FinanceHub could..."
     validations:
       required: true
 
@@ -22,7 +22,7 @@ body:
     attributes:
       label: "Proposed Solution"
       description: "Describe the feature you would like to see. How should it work?"
-      placeholder: "I would like StockMgr to..."
+      placeholder: "I would like FinanceHub to..."
     validations:
       required: true
 
@@ -39,7 +39,7 @@ body:
     id: category
     attributes:
       label: "Feature Category"
-      description: "Which area of StockMgr does this feature relate to?"
+      description: "Which area of FinanceHub does this feature relate to?"
       options:
         - Portfolio Management
         - Market Data & Quotes
@@ -61,7 +61,7 @@ body:
     attributes:
       label: "How important is this feature to you?"
       options:
-        - "🔴 Critical – I cannot use StockMgr effectively without it"
+        - "🔴 Critical – I cannot use FinanceHub effectively without it"
         - "🟠 High – Would significantly improve my experience"
         - "🟡 Medium – Nice to have but I can work around it"
         - "🟢 Low – Minor improvement"

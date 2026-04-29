@@ -1,6 +1,6 @@
 # Contributing to FinanceHub
 
-Thank you for your interest in contributing to FinanceHub! This repository serves as the **feature tracker and community request hub** for [StockMgr](https://github.com/RobertoBorges/StockMgr). Contributions here focus on documentation, roadmap suggestions, and issue triage.
+Thank you for your interest in contributing to FinanceHub! This repository serves as the **feature tracker and community request hub** for FinanceHub. Contributions here focus on documentation, roadmap suggestions, and issue triage.
 
 ---
 

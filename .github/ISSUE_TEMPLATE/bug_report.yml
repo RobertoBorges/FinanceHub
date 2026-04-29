@@ -1,5 +1,5 @@
 name: "🐛 Bug Report"
-description: "Report a bug or unexpected behavior in StockMgr"
+description: "Report a bug or unexpected behavior in FinanceHub"
 title: "[Bug]: "
 labels: ["bug", "needs-triage"]
 body:
@@ -57,8 +57,8 @@ body:
   - type: input
     id: version
     attributes:
-      label: "StockMgr Version"
-      description: "Which version of StockMgr are you using?"
+      label: "FinanceHub Version"
+      description: "Which version of FinanceHub are you using?"
       placeholder: "e.g., v1.2.3"
     validations:
       required: false
