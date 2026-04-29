@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/RobertoBorges/FinanceHub/discussions
+    about: "Use Discussions for general questions and community conversation about StockMgr."
+  - name: 📖 StockMgr Repository
+    url: https://github.com/RobertoBorges/StockMgr
+    about: "Go to the StockMgr source code repository."
